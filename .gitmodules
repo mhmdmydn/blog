@@ -1,7 +1,9 @@
 [submodule "themes/LoveIt"]
 	path = themes/LoveIt
 	url = https://github.com/dillonzq/LoveIt.git
+	branch = main
 [submodule "public"]
 	path = public
 	url = https://github.com/mhmdmydn/mhmdmydn.github.io.git
 	branch = main
+	ignore = dirty
